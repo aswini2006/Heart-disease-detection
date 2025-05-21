@@ -21,23 +21,6 @@ The dataset contains various medical attributes such as:
 
 The dataset file used: `dataset.csv`
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/heart-disease-detection.git
-cd heart-disease-detection
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-
-### 3. Run the code
-
-```bash
-python heart_disease_detection.py
-
-
 ## 🧠 Model Used
 Random Forest Classifier
 
