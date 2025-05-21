@@ -1,6 +1,5 @@
-### ✅ `requirements.txt`
+### requirements.txt
 
-```txt
 pandas
 numpy
 scikit-learn
